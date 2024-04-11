@@ -123,6 +123,7 @@ const experiences = [
       "Empresa criada pelo meu irmão durante a pandemia.",
       "Responsável pelo desenvolvimento e implementação do front-end.",
       "Implementação de um design responsivo e assegurar a compatibilidade com os navegadores mais utilizados.",
+      "https://lightsun.eco.br/",
     ],
   },
   {
