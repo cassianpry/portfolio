@@ -201,7 +201,7 @@ const projects = [
   {
     name: "Loja de Jogos",
     description:
-      "Aplicação web que permite os usuários cadastrarem-se na plataforma e fazer compras de jogos digitais. Permite realizar buscas de jogos, visualizar compras, editar perfil. Possui parte administrativa, com uma Dashboard que permite Cadastrar, Editar, Excluir tudo relacionado aos jogos, visualizar as compras de cada usuário e fazer buscas. usuário: lero@lero.com | senha: 12345 ",
+      "Aplicação web que permite os usuários cadastrarem-se na plataforma e fazer compras de jogos digitais. Permite realizar buscas de jogos, visualizar compras, editar perfil. Possui parte administrativa, com uma Dashboard que permite Cadastrar, Editar, Excluir tudo relacionado aos jogos, visualizar as compras de cada usuário e fazer buscas. usuário: lero@lero.lero | senha: 12345 ",
 
     tags: [
       {
